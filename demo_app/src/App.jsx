@@ -1,3 +1,6 @@
+//---------------------USECALLBACK------------------------
+
+
 // //import necessary modules
 // import React, { useState, useCallback } from 'react';  // Allows the component to have state variable 
 
@@ -40,7 +43,7 @@
 
 
 
-
+//--------------------------- USEMEMO--------------------------
 
 
 import { useState } from "react";
